@@ -1,4 +1,3 @@
-```php
 <?php
 
 /*
@@ -11,4 +10,3 @@ file_put_contents($debugFile, "\n[".date("Y.m.d H:i:s")."]↴\n".$debugContent, 
 /* */
 
 ?>
-```
